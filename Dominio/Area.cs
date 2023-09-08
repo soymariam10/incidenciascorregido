@@ -1,5 +1,5 @@
 namespace Dominio;
-
+//...
 public class Area : BaseEntityA
 {
     public string NombreArea { get; set; }

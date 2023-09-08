@@ -2,6 +2,7 @@ using System.Reflection;
 using Dominio;
 using Microsoft.EntityFrameworkCore;
 namespace Persistencia
+//..
 {
     public class IncidenciasContext : DbContext
     {
