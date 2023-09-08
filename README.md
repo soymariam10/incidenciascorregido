@@ -1,21 +1,27 @@
-# Título del Proyecto
+# Incidencias CampusLands
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_proyecto personal junto con documentacion con el objetivo de mejorar mis habilidades en BackEnd_
 
-## Comenzando 🚀
+## Para clonar repositorio 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+```
+git clone https://github.com/soymariam10/incidenciascorregido.git
+```
 
 
 ### Pre-requisitos 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
-```
-Da un ejemplo
-```
+#Instalacion de paquetes
+
+* [Gestor de paquetes Nugets] (https://www.nuget.org/) gestor de paquetes
+* [ayuda a controlar y limitar la cantidad de solicitudes que una aplicación web puede recibir en un tiempo determinado] (https://www.nuget.org/packages/AspNetCoreRateLimit) AspNetCoreRateLimit
+* [Biclioteca de Mapeo] (https://www.nuget.org/packages/AutoMapper.Extensions.Microsoft.DependencyInjection) AutoMapper.Extensions.Microsoft.DependencyInjection
+* [ validar y autenticar tokens JWT] (https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer/8.0.0-preview.7.23375.9) Microsoft.AspNetCore.Authentication.JwtBearer
+* [Gestion de Versiones de API] (https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.Versioning) Microsoft.AspNetCore.Mvc.Versioning
+* [documentación automática de API utilizando el estándar OpenAPI] (https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi/8.0.0-preview.7.23375.9) Microsoft.AspNetCore.OpenApi
+* [ tareas relacionadas con el diseño y la gestión de modelos de datos] (https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/8.0.0-preview.7.23375.4) Microsoft.EntityFrameworkCore.Design
 
 ### Instalación 🔧
 
