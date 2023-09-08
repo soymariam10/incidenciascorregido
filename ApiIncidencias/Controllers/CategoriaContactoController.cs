@@ -31,7 +31,7 @@ public class CategoriaContactoController : BaseApiController
         return Ok(regiones);
     }*/
     [HttpGet]
-    [Authorize(Roles = "Administrador")]
+    //[Authorize(Roles = "Administrador")]
     [MapToApiVersion("1.0")]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
