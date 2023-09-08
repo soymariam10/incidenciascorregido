@@ -9,11 +9,13 @@ git clone https://github.com/soymariam10/incidenciascorregido.git
 ```
 
 
-### Instalacion de paquetes 📋
-
+## Instalacion de paquetes 📦
+---
 _Que cosas necesitas para instalar el software y como instalarlas_
 
-### [Gestor de paquetes Nugets] (https://www.nuget.org/)
+## [Gestor de paquetes Nugets] (https://www.nuget.org/)
+
+## Dentro del proyecto API  🛠️
 
 * [ayuda a controlar y limitar la cantidad de solicitudes que una aplicación web puede recibir en un tiempo determinado] (https://www.nuget.org/packages/AspNetCoreRateLimit) AspNetCoreRateLimit
 * [Biclioteca de Mapeo] (https://www.nuget.org/packages/AutoMapper.Extensions.Microsoft.DependencyInjection) AutoMapper.Extensions.Microsoft.DependencyInjection
@@ -21,6 +23,11 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 * [Gestion de Versiones de API] (https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.Versioning) Microsoft.AspNetCore.Mvc.Versioning
 * [documentación automática de API utilizando el estándar OpenAPI] (https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi/8.0.0-preview.7.23375.9) Microsoft.AspNetCore.OpenApi
 * [ tareas relacionadas con el diseño y la gestión de modelos de datos] (https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/8.0.0-preview.7.23375.4) Microsoft.EntityFrameworkCore.Design
+
+## Dentro del proyecto Dominio 🤜🏻🤛🏻
+* [realizar validaciones de datos en aplicaciones ASP.NET Core] (https://www.nuget.org/packages/FluentValidation.AspNetCore) FluentValidation.AspNetCore
+* [permite convertir fácilmente HTML y CSS en archivos PDF] (https://www.nuget.org/packages/itext7.pdfhtml) itext7.pdfhtml
+* [biblioteca fundamental para el desarrollo de aplicaciones .NET] (https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/8.0.0-preview.7.23375.4) Microsoft.EntityFrameworkCore
 
 ### Instalación 🔧
 
