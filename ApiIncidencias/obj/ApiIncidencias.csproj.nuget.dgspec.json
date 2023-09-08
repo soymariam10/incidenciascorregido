@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\ApiIncidencias\\ApiIncidencias.csproj": {}
+    "c:\\Users\\APOLM01\\incidenciascorregido\\ApiIncidencias\\ApiIncidencias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\ApiIncidencias\\ApiIncidencias.csproj": {
+    "c:\\Users\\APOLM01\\incidenciascorregido\\ApiIncidencias\\ApiIncidencias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\ApiIncidencias\\ApiIncidencias.csproj",
+        "projectUniqueName": "c:\\Users\\APOLM01\\incidenciascorregido\\ApiIncidencias\\ApiIncidencias.csproj",
         "projectName": "ApiIncidencias",
-        "projectPath": "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\ApiIncidencias\\ApiIncidencias.csproj",
+        "projectPath": "c:\\Users\\APOLM01\\incidenciascorregido\\ApiIncidencias\\ApiIncidencias.csproj",
         "packagesPath": "C:\\Users\\APOLM01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\ApiIncidencias\\obj\\",
+        "outputPath": "c:\\Users\\APOLM01\\incidenciascorregido\\ApiIncidencias\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APOLM01\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Aplicacion\\Aplicacion.csproj"
+              "c:\\Users\\APOLM01\\incidenciascorregido\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "c:\\Users\\APOLM01\\incidenciascorregido\\Aplicacion\\Aplicacion.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Aplicacion\\Aplicacion.csproj": {
+    "c:\\Users\\APOLM01\\incidenciascorregido\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "c:\\Users\\APOLM01\\incidenciascorregido\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "c:\\Users\\APOLM01\\incidenciascorregido\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\APOLM01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Aplicacion\\obj\\",
+        "outputPath": "c:\\Users\\APOLM01\\incidenciascorregido\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APOLM01\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -118,11 +118,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Dominio\\Dominio.csproj"
+              "c:\\Users\\APOLM01\\incidenciascorregido\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\APOLM01\\incidenciascorregido\\Dominio\\Dominio.csproj"
               },
-              "c:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "c:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Persistencia\\Persistencia.csproj"
+              "c:\\Users\\APOLM01\\incidenciascorregido\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Users\\APOLM01\\incidenciascorregido\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Dominio\\Dominio.csproj": {
+    "c:\\Users\\APOLM01\\incidenciascorregido\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\Users\\APOLM01\\incidenciascorregido\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Dominio\\Dominio.csproj",
+        "projectPath": "c:\\Users\\APOLM01\\incidenciascorregido\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\APOLM01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Dominio\\obj\\",
+        "outputPath": "c:\\Users\\APOLM01\\incidenciascorregido\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APOLM01\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -223,14 +223,14 @@
         }
       }
     },
-    "c:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Persistencia\\Persistencia.csproj": {
+    "c:\\Users\\APOLM01\\incidenciascorregido\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "c:\\Users\\APOLM01\\incidenciascorregido\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "c:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Persistencia\\Persistencia.csproj",
+        "projectPath": "c:\\Users\\APOLM01\\incidenciascorregido\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\APOLM01\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Persistencia\\obj\\",
+        "outputPath": "c:\\Users\\APOLM01\\incidenciascorregido\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APOLM01\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -245,8 +245,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Dominio\\Dominio.csproj"
+              "c:\\Users\\APOLM01\\incidenciascorregido\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\APOLM01\\incidenciascorregido\\Dominio\\Dominio.csproj"
               }
             }
           }

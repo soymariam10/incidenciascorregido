@@ -16,7 +16,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 1. Instalar Gestor de paquetes y despues hacer las debidas instalaciones desde Command Palette (ctrl+shift+p)
 2. instalar la ultima version de cada paquete en su carpeta correspondiente
 
-## [Gestor de paquetes Nugets] (https://www.nuget.org/)
+## Gestor de paquetes Nugets (https://www.nuget.org/)
 
 ## Dentro del proyecto API  🛠️
 

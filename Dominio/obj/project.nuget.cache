@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6xT8QfsitKx1IcbpdI0mxMdvYvkF+JPX+DS/4dVo82+NmwH1VMT/e6HrHUsOl77+dRg7vPn8Hfr8Ni/Q07Gv9A==",
+  "dgSpecHash": "vHWyc2zxvV0FregFY3wPqdveC/cOdy26IsvBLmwhFC55n0O3xjSDVc5Tn1pcj4gDNEj+7umMyLvyCmckiAj2ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APOLM01\\Documents\\Angelica\\incidenciascorregido\\Dominio\\Dominio.csproj",
+  "projectFilePath": "c:\\Users\\APOLM01\\incidenciascorregido\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APOLM01\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\APOLM01\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
