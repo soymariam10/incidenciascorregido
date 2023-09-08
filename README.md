@@ -9,11 +9,11 @@ git clone https://github.com/soymariam10/incidenciascorregido.git
 ```
 
 
-### Pre-requisitos 📋
+### Instalacion de paquetes 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
-#Instalacion de paquetes
+### [Gestor de paquetes Nugets] (https://www.nuget.org/)
 
 * [ayuda a controlar y limitar la cantidad de solicitudes que una aplicación web puede recibir en un tiempo determinado] (https://www.nuget.org/packages/AspNetCoreRateLimit) AspNetCoreRateLimit
 * [Biclioteca de Mapeo] (https://www.nuget.org/packages/AutoMapper.Extensions.Microsoft.DependencyInjection) AutoMapper.Extensions.Microsoft.DependencyInjection
