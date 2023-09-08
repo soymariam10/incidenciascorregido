@@ -15,7 +15,6 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 
 #Instalacion de paquetes
 
-* [Gestor de paquetes Nugets] (https://www.nuget.org/) gestor de paquetes
 * [ayuda a controlar y limitar la cantidad de solicitudes que una aplicación web puede recibir en un tiempo determinado] (https://www.nuget.org/packages/AspNetCoreRateLimit) AspNetCoreRateLimit
 * [Biclioteca de Mapeo] (https://www.nuget.org/packages/AutoMapper.Extensions.Microsoft.DependencyInjection) AutoMapper.Extensions.Microsoft.DependencyInjection
 * [ validar y autenticar tokens JWT] (https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer/8.0.0-preview.7.23375.9) Microsoft.AspNetCore.Authentication.JwtBearer
