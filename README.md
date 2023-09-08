@@ -13,6 +13,9 @@ git clone https://github.com/soymariam10/incidenciascorregido.git
 ---
 _Que cosas necesitas para instalar el software y como instalarlas_
 
+1. Instalar Gestor dpaquetes y despues hacer las debidas instalaciones desde Command Palette (ctrl+shift+p)
+2. instalar la ultima version de cada paquete en su carpeta correspondiente
+
 ## [Gestor de paquetes Nugets] (https://www.nuget.org/)
 
 ## Dentro del proyecto API  🛠️
@@ -29,90 +32,24 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 * [permite convertir fácilmente HTML y CSS en archivos PDF] (https://www.nuget.org/packages/itext7.pdfhtml) itext7.pdfhtml
 * [biblioteca fundamental para el desarrollo de aplicaciones .NET] (https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/8.0.0-preview.7.23375.4) Microsoft.EntityFrameworkCore
 
-### Instalación 🔧
+## Dentro del proyecto Persistencia 🤸🏻‍♀️
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+ [biblioteca fundamental para el desarrollo de aplicaciones .NET] (https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/8.0.0-preview.7.23375.4) Microsoft.EntityFrameworkCore
+* [ integración de MySQL en aplicaciones .NET Core] (https://www.nuget.org/packages/Pomelo.EntityFrameworkCore.MySql) Pomelo.EntityFrameworkCore.MySql
 
-_Dí cómo será ese paso_
+## Estructura del Proyecto
+Estas son las carpertas de configuracion las cuales vamos a utilizar para nuestros proyectos
+ - 📂 En Dominio  
+        Aqui se crean las tablas que representan la BD y van a estar ubicadas las carpetas de Entidades e Interfaces.
 
-```
-Da un ejemplo
-```
+ - 📂 En Persistencia  
+        Aqui se crea la instancia de conexion a la BD y van a estar ubicadas las carpetas de Data, Configuracion, Archivo context y Migraciones.
 
-_Y repite_
+ - 📂 En Aplicacion  
+        Aqui se crea la inyeccion de dependecia para la comunicacion con el WebApi y van a estar ubicadas las carpetas de Unidad de trabajo y Repositorios.
+        
+ - 📂 En WebApi  
+        Aqui se crean clases encargadas de recibir peticiones de los clientes y van a estar ubicadas las carpetas de Controladores, helpers, Dtos, Profile, Contenedor de dependecias(program.cs) y Extenciones.
 
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
-
-
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+ - 📂 En Seguridad  
+        Aqui se crean clases encargadas de la configuración de los archivos JWT(JSON Web Tokens) para la seguridad de nuestro proyecto.
