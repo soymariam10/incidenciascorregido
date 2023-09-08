@@ -13,7 +13,7 @@ git clone https://github.com/soymariam10/incidenciascorregido.git
 ---
 _Que cosas necesitas para instalar el software y como instalarlas_
 
-1. Instalar Gestor dpaquetes y despues hacer las debidas instalaciones desde Command Palette (ctrl+shift+p)
+1. Instalar Gestor de paquetes y despues hacer las debidas instalaciones desde Command Palette (ctrl+shift+p)
 2. instalar la ultima version de cada paquete en su carpeta correspondiente
 
 ## [Gestor de paquetes Nugets] (https://www.nuget.org/)
@@ -34,7 +34,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 
 ## Dentro del proyecto Persistencia 🤸🏻‍♀️
 
- [biblioteca fundamental para el desarrollo de aplicaciones .NET] (https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/8.0.0-preview.7.23375.4) Microsoft.EntityFrameworkCore
+* [biblioteca fundamental para el desarrollo de aplicaciones .NET] (https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/8.0.0-preview.7.23375.4) Microsoft.EntityFrameworkCore
 * [ integración de MySQL en aplicaciones .NET Core] (https://www.nuget.org/packages/Pomelo.EntityFrameworkCore.MySql) Pomelo.EntityFrameworkCore.MySql
 
 ## Estructura del Proyecto
